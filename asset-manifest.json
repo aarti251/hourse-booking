@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hourse-booking/static/css/main.c4ec1b13.css",
+    "main.js": "/hourse-booking/static/js/main.2449473b.js",
+    "index.html": "/hourse-booking/index.html",
+    "main.c4ec1b13.css.map": "/hourse-booking/static/css/main.c4ec1b13.css.map",
+    "main.2449473b.js.map": "/hourse-booking/static/js/main.2449473b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ec1b13.css",
+    "static/js/main.2449473b.js"
+  ]
+}
